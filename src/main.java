@@ -21,6 +21,7 @@ public class main {
             break;
             case 2:
             register();
+            break;
             case 3:
             exit = true;
         }
